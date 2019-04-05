@@ -3,7 +3,7 @@
 
 * [BackstageCheckItem.cs](./CS/Q506373/BackstageCheckItem.cs) (VB: [BackstageCheckItem.vb](./VB/Q506373/BackstageCheckItem.vb))
 * **[MainWindow.xaml](./CS/Q506373/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Q506373/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/Q506373/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Q506373/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Q506373/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Q506373/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to implement BackstageButtonItem with ToggleButton behavior
 
