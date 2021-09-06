@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q506373", "Q506373\Q506373.csproj", "{FF4CC2A1-CB57-4239-8F89-0A295FA55705}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q506373", "Q506373\Q506373.Net5.csproj", "{FF4CC2A1-CB57-4239-8F89-0A295FA55705}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
